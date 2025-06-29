@@ -47,3 +47,4 @@ Generated/
 DanKit.*.g.cs
 
 .vs/
+*.ps1
