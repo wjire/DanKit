@@ -7,10 +7,10 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>DanKit.TCP.Client</PackageId>
     <PackageVersion>1.0.1</PackageVersion>
-    <Authors>DanKit</Authors>
+    <Authors>DanDan</Authors>
     <Description>一个功能强大的 .NET TCP 客户端库，基于抽象基类设计，提供单例模式、自动重连、心跳检测等功能。A robust .NET TCP client with singleton, auto-reconnect, and heartbeat support.</Description>
     <PackageTags>TCP;Client;Socket;Networking;Async;Singleton;Reconnection;Heartbeat</PackageTags>
-    <RepositoryUrl>https://github.com/DanKit/DanKit.TCP.Client</RepositoryUrl>
+    <RepositoryUrl>https://github.com/wjire/DanKit/tree/master/DanKit.TCP.Client</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
