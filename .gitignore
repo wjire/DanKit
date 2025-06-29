@@ -45,3 +45,5 @@ artifacts/
 ## 自定义生成的文件（如 DanKit 的自动生成模块）
 Generated/
 DanKit.*.g.cs
+
+.vs/
