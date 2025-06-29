@@ -1,24 +1,47 @@
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
+## 构建输出
+bin/
+obj/
 
-# Dump file
-*.stackdump
+## 用户相关文件
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Folder config file
-[Dd]esktop.ini
+## IDE 配置
+.vscode/
+.idea/
+*.code-workspace
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+## Rider 缓存
+*.sln.iml
+.idea/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
+## 其他工具文件
+*.vspscc
+*.vssscc
+*.ncrunch*
+*.localhistory
 
-# Windows shortcuts
-*.lnk
+## 运行时生成文件
+*.log
+*.tlog
+*.cache
+*.dbmdl
+
+## 发布相关
+*.publishsettings
+*.deploy.cmd
+*.deploy-readme.txt
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## 自定义生成的文件（如 DanKit 的自动生成模块）
+Generated/
+DanKit.*.g.cs
