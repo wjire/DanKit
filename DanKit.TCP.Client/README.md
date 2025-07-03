@@ -1,6 +1,6 @@
 # DanKit.TCP.Client
 
-一个功能强大的 .NET TCP 客户端库，基于抽象基类设计，提供单例模式、自动重连、心跳检测等企业级功能。
+一个功能强大的 .NET TCP 客户端库，基于抽象基类设计，提供单例模式、自动重连、心跳检测等功能。
 
 > 🇨🇳 国内镜像访问：[Gitee 仓库](https://gitee.com/wjire/dan-kit/tree/master/DanKit.TCP.Client)
 > en 国外镜像访问：[GitHub 仓库](https://github.com/wjire/DanKit/tree/master/DanKit.TCP.Client)
@@ -390,14 +390,8 @@ client.Disconnected += () =>
 };
 ```
 
-## 📄 许可证
-
-本项目基于开源许可证发布，具体许可条款请查看项目根目录的 LICENSE 文件。
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个项目！
 
 ---
-
-**DanKit.TCP.Client** - 企业级 TCP 客户端解决方案
